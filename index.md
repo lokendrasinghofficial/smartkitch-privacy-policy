@@ -77,6 +77,26 @@ Internet Access
 We may update this Privacy Policy from time to time.Any changes will be reflected by updating the "Effective Date" at the top of this page.
 Users are encouraged to review this policy periodically.
 
-9. Contact Information
+# 9. SmartKitch Account Deletion
+
+Users can request deletion of their SmartKitch account and all associated data.
+
+To delete your account, send an email to:
+
+lokendrasinghofficial2@gmail.com
+
+Subject: SmartKitch Account Deletion
+
+Please include the email address used in the app.
+
+All user data including:
+- Profile information
+- Inventory data
+- Shopping lists
+- Saved recipes
+
+will be permanently deleted within 7 days.
+
+10. Contact Information
 If you have any questions about this Privacy Policy, please contact:
 Developer: Lokendra SinghApp Name: SmartKitchEmail: contactwithsmartkitch@gmail.com
